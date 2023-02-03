@@ -45,4 +45,4 @@ properties:
       vault: PGPASSWORD
     POSTGRES_SONARUSER_PASSWORD:
       vault: POSTGRES_SONARUSER_PASSWORD
-    revision : 27
+    revision : 28
